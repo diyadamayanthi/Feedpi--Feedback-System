@@ -1,18 +1,18 @@
-# FeedPi – Feedback System
+## Project Overview
+FeedPi is an interactive touch-based feedback system developed using Raspberry Pi and a touch display.
 
-FeedPi is an interactive feedback collection system developed using Raspberry Pi and a touch display.
-
-## Objective
-To provide a simple and efficient way for users to submit feedback digitally.
+## Key Features
+- Touch-based feedback interface
+- Built-in Wi-Fi connectivity
+- Data accessible via IP address
+- Predefined feedback icons with comments
 
 ## Technologies Used
 - Raspberry Pi
 - Touch Display
 - Python
 - Embedded Systems
+- Networking Basics
 
-## Description
-This project is designed as part of academic coursework and demonstrates basic hardware–software integration.
-
-## Status
-Project structure created. Further enhancements can be added.
+## Academic Context
+This project was developed as a minor project during undergraduate studies.
